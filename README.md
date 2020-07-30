@@ -1,8 +1,10 @@
 
 # tutorial_flutter_web
 
-A new Flutter project.
 
+An example taken from https://flutter.dev/docs/
+This is a simple way to create a stateful widget that manage by itself its own state.
+Check official website to see original code
 ## Getting Started
 
 This project is a starting point for a Flutter application.
